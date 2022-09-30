@@ -2,6 +2,7 @@
 
 [Weights and Biases Project](https://wandb.ai/basedrhys/ml4h)
 
+[Full Report](https://drive.google.com/file/d/1XB_jxtC2HqRp0ic8NvW7ChnIDJYAwKkv/view?usp=sharing)
 
 ![Graph](graph.png)
 
